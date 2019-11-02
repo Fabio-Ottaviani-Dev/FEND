@@ -1,4 +1,4 @@
-# Udacity - FEND Project 7: Neighborhood Map (React)
+# Project: Neighborhood Map (React)
 
 ## Project Overview:
 The Neighborhood Map (React) is part of the: Udacity Front-End Web Developer Nanodegree Program.
