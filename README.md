@@ -10,15 +10,15 @@ These projects are part of Front End Web Developer Nanodegree Program on 2018 - 
 [FEND syllabus](/docs/syllabus-nd001-8.0.0-en-us.pdf)
 
 ### Projects
-1. [Pixel art maker](#)
-2. [Nanodegree graduation](#)
-3. [Memory Game](#)
-4. [Classic Arcade Game Clone](#)
-5. [Feed Reader Testing](#)
-6. [Restaurant Reviews App—Stage 1](#)
-7. [MyReads: A Book Tracking App](#)
-8. [Neighborhood Map (React) stage 1](#)
-9. [Neighborhood Map (React) stage 2](#)
+1. [Pixel art maker](/projects/01-pixel-art-maker)
+2. [Build a Portfolio Site](/projects/02-portfolio)
+3. [Memory Game](/projects/03-memory-game)
+4. [Classic Arcade Game Clone](/projects/04-arcade-game)
+5. [Feed Reader Testing](/projects/05-feed-reader-testing)
+6. [Restaurant Reviews App—Stage 1](/projects/06-mws-restaurant-stage-1)
+7. [MyReads: A Book Tracking App](/projects/07-myreads)
+8. [Neighborhood Map (React) stage 1](/projects/08-neighborhood-map_base)
+9. [Neighborhood Map (React) stage 2](/projects/09-neighborhood-map)
 
 ### Nanodegree graduation
 https://confirm.udacity.com/SNKVDRMR
