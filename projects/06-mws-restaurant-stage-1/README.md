@@ -1,4 +1,4 @@
-# Udacity - FEND Project 5: Restaurant Reviews Stage 1
+# Project: Restaurant Reviews Stage 1
 
 ## Project Overview:
 The Restaurant Reviews Stage 1 App is base on: https://github.com/udacity/mws-restaurant-stage-1 provide by [Udacity](https://www.udacity.com).
