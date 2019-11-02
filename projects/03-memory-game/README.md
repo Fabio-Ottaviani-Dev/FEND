@@ -23,4 +23,4 @@ See `package.json` and `gruntfile.js` for more details.
 
 ## How it look like
 
-![Screen-Shot-Demo](/screenshot/matching-game-screenshot.png)
+![Screen-Shot-Demo](/projects/03-memory-game/screenshot/matching-game-screenshot.png)
