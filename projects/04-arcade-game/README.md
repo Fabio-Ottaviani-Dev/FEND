@@ -13,3 +13,7 @@ The purpose of the game is cross the street without be touched by the bugs, if y
 ### How to play the game
 1) Use the arrow keys (up, down, left, right) to move the character, (allowed only in the starting point).
 2) Use the numbers from 1 to 5 to change the character.
+
+## How it look like
+
+![Screen-Shot-Demo](/projects/04-arcade-game/screenshot/screenshot-arcade-game.png)
