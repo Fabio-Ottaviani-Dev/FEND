@@ -1,4 +1,4 @@
-# Udacity - FEND Project 4: feed reader testing
+# Project: feed reader testing
 The feed reader testing is base on: https://github.com/udacity/frontend-nanodegree-feedreader provide by [Udacity](https://www.udacity.com).
 and is part of the: Udacity Front-End Web Developer Nanodegree Program.
 
