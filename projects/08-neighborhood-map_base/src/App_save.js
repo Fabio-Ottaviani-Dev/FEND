@@ -50,7 +50,7 @@ class App extends Component {
 
     let infowindow = new window.google.maps.InfoWindow();
 
-    this.state.venues.map(result => {
+    this.state.venues.map(result =>{
 
       let contentString = `${result.venue.name}`
 
@@ -65,6 +65,10 @@ class App extends Component {
         infowindow.open(map, marker);
       })
 
+    // to avoid:  Expected to return a value in arrow function  array-callback-return
+    // doc:       https://eslint.org/docs/rules/array-callback-return
+      return result;
+
     }) // END map
 
 
@@ -76,7 +80,16 @@ class App extends Component {
   render() {
     return (
       <main>
+        <nav>
+         <h1>Stuff Map</h1>
+        </nav>
+
         <div id="map"></div>
+        <aside id="sidebar">
+        <section id="widget_1"></section>
+        <section id="widget_2"></section>
+        <section id="widget_3"></section>
+        </aside>
       </main>
     )
   }

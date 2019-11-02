@@ -13,7 +13,7 @@ class App extends Component {
   }
 
   renderMap = () => {
-    loadScript('https://maps.googleapis.com/maps/api/js?key=AIzaSyBNMIYh8FdKk8KgLlcenTTVrCCjo9xfGCs&callback=initMap')
+    loadScript('https://maps.googleapis.com/maps/api/js?key=your_key')
     window.initMap = this.initMap
   }
 
@@ -22,8 +22,8 @@ class App extends Component {
     const request = 'https://api.foursquare.com/v2/venues/explore?'
 
     const parameters = {
-      client_id: 'XO3FGIHPNFHEJYBRRUYV4F5B0EHHCEFLXP0CVAWSRET02323',
-      client_secret: 'H30D3CVIQ1SL5URO1NUST12WNX4TTJE41MECLIIEKXY0CJBT',
+      client_id: 'your_client_id',
+      client_secret: 'your_client_secret',
       v: '20182507', // https://developer.foursquare.com/docs/api/configuration/versioning
       near: 'San Diego', // or ll: '32.715738, -117.161084'
       query: 'surf shops',
