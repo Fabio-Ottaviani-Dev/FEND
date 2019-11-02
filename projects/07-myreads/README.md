@@ -1,4 +1,4 @@
-# Udacity - FEND Project 6: MyReads
+# Project: MyReads
 
 ## Project Overview:
 The MyReads is base on: https://github.com/udacity/reactnd-project-myreads-starter provide by [Udacity](https://www.udacity.com).
