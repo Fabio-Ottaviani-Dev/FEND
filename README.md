@@ -9,16 +9,18 @@ These projects are part of Front End Web Developer Nanodegree Program on 2018 - 
 ### Syllabus
 [FEND syllabus](/docs/syllabus-nd001-8.0.0-en-us.pdf)
 
+### Scholarship
+[Pixel art maker](/projects/01-pixel-art-maker) Final project of: [Grow with Google](https://grow.google/programs/udacity/) Challenge Scholarship: Front-End Web Dev.
+
 ### Projects
-1. [Pixel art maker](/projects/01-pixel-art-maker)
-2. [Build a Portfolio Site](/projects/02-portfolio)
-3. [Memory Game](/projects/03-memory-game)
-4. [Classic Arcade Game Clone](/projects/04-arcade-game)
-5. [Feed Reader Testing](/projects/05-feed-reader-testing)
-6. [Restaurant Reviews App—Stage 1](/projects/06-mws-restaurant-stage-1)
-7. [MyReads: A Book Tracking App](/projects/07-myreads)
-8. [Neighborhood Map (React) stage 1](/projects/08-neighborhood-map_base)
-9. [Neighborhood Map (React) stage 2](/projects/09-neighborhood-map)
+1. [Build a Portfolio Site](/projects/02-portfolio)
+2. [Memory Game](/projects/03-memory-game)
+3. [Classic Arcade Game Clone](/projects/04-arcade-game)
+4. [Feed Reader Testing](/projects/05-feed-reader-testing)
+5. [Restaurant Reviews App—Stage 1](/projects/06-mws-restaurant-stage-1)
+6. [MyReads: A Book Tracking App](/projects/07-myreads)
+7. [Neighborhood Map (React) stage 1](/projects/08-neighborhood-map_base)
+8. [Neighborhood Map (React) stage 2](/projects/09-neighborhood-map)
 
 ### Nanodegree graduation
 https://confirm.udacity.com/SNKVDRMR
