@@ -1,5 +1,5 @@
 # Project: Pixel Art Maker
-Final project of: Grow with Google Challenge Scholarship: Front-End Web Dev.
+Final project of: [Grow with Google](https://grow.google/programs/udacity/) Challenge Scholarship: Front-End Web Dev.
 
 ## What is the possible application?
 
