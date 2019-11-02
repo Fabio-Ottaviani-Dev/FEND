@@ -1,0 +1,65 @@
+// --------------------------------------------------------------------------------------------------
+// Vars
+// --------------------------------------------------------------------------------------------------
+// http://colormind.io/
+
+// 1: #3397DB;
+// 2: #287CA7;
+// 3: #206798;
+
+// 1: #2e7c31;
+// 2: #2e7d32;
+// 3: #60ac5d;
+
+$color-1:#3397DB;
+$color-2:#287CA7;
+$color-3:#206798;
+
+// --------------------------------------------------------------------------------------------------
+ #map {
+    height: 100vh;
+    width: 80%;
+  }
+  /* Optional: Makes the sample page fill the window. */
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+// --------------------------------------------------------------------------------------------------
+// react preset
+/*
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
