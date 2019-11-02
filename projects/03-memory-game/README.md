@@ -1,4 +1,4 @@
-# Memory Game Project
+# Project: Memory Game
 
 ## Description
 Udacity Front-End Web Developer Nanodegree Program - Project Memory Game\
