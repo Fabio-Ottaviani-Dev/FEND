@@ -1,4 +1,4 @@
-# Udacity - FEND Project 3: Classic Arcade Game Clone
+# Project: Classic Arcade Game Clone
 The classic arcade game clone is base on: https://github.com/udacity/frontend-nanodegree-arcade-game provide by [Udacity](https://www.udacity.com).
 and is part of the: Udacity Front-End Web Developer Nanodegree Program.
 
