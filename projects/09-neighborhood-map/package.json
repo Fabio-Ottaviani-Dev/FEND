@@ -7,13 +7,13 @@
     "@types/markerclustererplus": "^2.1.33",
     "@types/react": "^16.7.2",
     "ajv": "^6.5.5",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-sass": "^4.0.2",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
     "react-google-maps": "^9.4.5",
-    "react-scripts": "2.1.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
